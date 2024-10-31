@@ -1,5 +1,7 @@
+@import url(https://fonts.google.com/specimen/Outfit);
 body {
-  margin: 0;
+    font-family:Outfit ;
+      margin: 0;
   padding: 0 0 80px;
   box-sizing: border-box;
   color: hsl(24, 5%, 18%);
